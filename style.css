@@ -5,9 +5,11 @@ header {
     background-color: rgb(6, 39, 66);
     padding: 14px 40px;
   }
+  
 .nav {
     display: flex;
   }
+
 .nav > li > a {
     color: white;
     font-size: 20px;
